@@ -1,7 +1,6 @@
 import os
 import asyncio
 
-from livekit import rtc
 from livekit.agents import JobContext, WorkerOptions, cli, JobProcess
 from livekit.agents.llm import (
     ChatContext,
