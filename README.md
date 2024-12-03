@@ -1,5 +1,7 @@
 # Insanely fast AI voice assistant in 50 LOC
 
+Demo: [https://cerebras.vercel.app](https://cerebras.vercel.app)
+
 This repo contains everything you need to run your own AI voice assistant that responds to you in less than 500ms.
 
 It uses:
